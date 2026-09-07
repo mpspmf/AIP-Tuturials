@@ -1,0 +1,146 @@
+GUIÃO DE VÍDEO — Microsoft Teams na AIP
+Duração alvo: 7 a 9 minutos
+Língua: português de Portugal
+Formato: gravar o ecrã (Teams aberto) + narração. Webcam opcional nos 20 segundos iniciais.
+
+────────────────────────────────────────
+ANTES DE GRAVAR
+────────────────────────────────────────
+- Abrir o Teams já autenticado com conta da empresa.
+- Ter visível: Team da empresa (2 canais) E um Team de AO de exemplo
+  (mesmo que ainda seja de teste, com canais Geral / Avisos / Dúvidas).
+- Ter o Outlook aberto para mostrar «Obter endereço de e-mail» e Cc (rascunho).
+- Se possível, ter o botão Partilhar no Teams visível no Outlook.
+- Desligar notificações durante a gravação.
+- Resolução 1920×1080; não mostrar dados pessoais reais de clientes.
+- Tom: calmo, direto, sem jargão. Não ridicularizar quem usa e-mail.
+
+────────────────────────────────────────
+0:00–0:25  ABERTURA (pode ser cara + nome)
+────────────────────────────────────────
+NARRAÇÃO:
+«Olá. Este vídeo explica como vamos passar a comunicar melhor dentro da AIP:
+o dia a dia no Microsoft Teams, por área operacional, e o e-mail para o que é
+formal ou externo. Dura menos de dez minutos e mostra o ecrã real.»
+
+────────────────────────────────────────
+0:25–1:10  O PROBLEMA
+────────────────────────────────────────
+ECRÃ: caixa de entrada do Outlook (pode ser desfocada) ou o Team único atual.
+NARRAÇÃO:
+«Hoje quase tudo vai por e-mail. É lento, as conversas perdem-se e os ficheiros
+andam em anexos com três versões. Já temos Teams — mas está um único Team,
+com dois canais, para toda a gente. Isso serve para avisos gerais.
+Não serve para o trabalho de cada área operacional.»
+
+────────────────────────────────────────
+1:10–2:00  A PROPOSTA
+────────────────────────────────────────
+ECRÃ: lista de Equipas — apontar o Team da empresa e o Team da AO.
+NARRAÇÃO:
+«A proposta é simples. Um Team por AO. O diretor cria os canais de que a
+equipa precisa. O Team de toda a empresa fica para comunicados que interessam
+a todos. O e-mail não desaparece: clientes, contratos, decisões formais e
+arquivo continuam no correio eletrónico.»
+
+────────────────────────────────────────
+2:00–2:40  REGRA DE OURO
+────────────────────────────────────────
+ECRÃ: slide 4 da apresentação, ou um papel com duas colunas Teams / E-mail.
+NARRAÇÃO:
+«Regra de ouro: se a conversa é interna, operacional e precisa de resposta
+rápida, vai para o Teams. Se precisa de formalidade, destinatário externo
+ou prova de arquivo, fica no e-mail. Se discutimos no Teams e no fim for
+preciso um comprovativo, manda-se um e-mail curto a resumir o acordo.»
+
+────────────────────────────────────────
+2:40–4:00  DEMO NO ECRÃ (o miolo)
+────────────────────────────────────────
+Ações a mostrar, sem pressa:
+
+1) Menu Equipas → abrir o Team da AO → canal Geral.
+   «Aqui vive o dia a dia da área. Não no Team de toda a empresa.»
+
+2) Escrever uma mensagem de exemplo:
+   «Boa tarde. Preciso de confirmar o prazo X até amanhã às 12h. @Nome.»
+   Mostrar a menção.
+   «Usem o @nome para chamar quem tem de agir. O @canal só quando for mesmo
+   para toda a gente — faz muito barulho.»
+
+3) Responder na thread a essa mensagem.
+   «Continuem o mesmo assunto aqui. Não comecem um recado novo.»
+
+4) Separador Ficheiros → carregar um documento inofensivo (ex.: este manual).
+   «Uma versão, no sítio certo. Acaba o anexo versão_final_v3.»
+
+5) Botão Reunir / agendar (não é preciso entrar numa chamada real).
+   «As reuniões da AO também nascem daqui. Depois da reunião, publiquem a
+   decisão no canal. Quem faltou fica a saber.»
+
+────────────────────────────────────────
+4:00–5:20  A MESMA MENSAGEM NO E-MAIL E NO CANAL
+────────────────────────────────────────
+ECRÃ: canal Avisos → três pontos (…) → Obter endereço de e-mail.
+Depois Outlook: novo e-mail com o endereço em Cc (pode ser um rascunho, sem enviar
+se não quiser poluir o canal de produção).
+
+NARRAÇÃO:
+«Quem ainda só abre o Outlook não precisa de ficar de fora nos avisos importantes.
+Cada canal tem um endereço de e-mail. Copiamos, pomos em Cc no Outlook, e a
+mesma mensagem chega à caixa de entrada e ao canal. Um envio, dois sítios.
+Se o e-mail já existe — por exemplo de um cliente — usamos Partilhar no Teams
+e escolhemos o canal da AO, sem meter o cliente dentro do Team.
+Atenção: as respostas no Outlook e as respostas no canal não são a mesma
+conversa. Para avisos está bem. Para o vai-e-vem do dia, fiquem só no Teams,
+senão voltamos a ter duas discussões em paralelo.»
+
+────────────────────────────────────────
+5:20–6:00  QUEM SÓ USA E-MAIL
+────────────────────────────────────────
+ECRÃ: voltar ao canal Avisos / Geral.
+NARRAÇÃO:
+«Se está habituado só ao Outlook, não precisa de se tornar especialista.
+Cinco gestos chegam: abrir o Team da AO, escrever no canal, mencionar quem
+interessa, pôr o ficheiro ali, reunir quando for preciso.
+O diretor dá o exemplo: se a pergunta vem no Teams, a resposta sai no Teams.
+Se mandarem um assunto operacional por e-mail, vamos responder no canal,
+com educação, para ficar o histórico. Ninguém é avaliado por quantas
+mensagens escreve.»
+
+────────────────────────────────────────
+6:00–6:35  NOTIFICAÇÕES E HORÁRIO
+────────────────────────────────────────
+ECRÃ: Definições → Notificações (mesmo que seja um zoom rápido).
+NARRAÇÃO:
+«Afinem as notificações. Deixem alertas para menções e para o canal de avisos.
+Silenciem o resto. O Teams não é um contrato de disponibilidade à noite.
+Em horário de expediente, sim: olhem o canal da AO como olhariam para a
+caixa de entrada — com a vantagem de a conversa já estar no sítio certo.»
+
+────────────────────────────────────────
+6:35–7:10  FECHO
+────────────────────────────────────────
+ECRÃ: mensagem de arranque no canal (texto do slide 10) ou capa do manual.
+NARRAÇÃO:
+«O manual em PDF tem a matriz completa, os três métodos para a mesma mensagem
+chegar ao e-mail e ao canal, e as perguntas frequentes. O próximo passo é
+concreto: abrir o Team da vossa AO e escrever a primeira dúvida no canal certo.
+Deixem o e-mail para o que é sério — e, nos avisos que ninguém pode perder,
+usem o Cc do canal. Obrigado.»
+
+────────────────────────────────────────
+VERSÃO CURTA (2 min, se precisarem de um «teaser»)
+────────────────────────────────────────
+1. Problema: e-mail lento + um Team único inútil para o dia a dia.
+2. Proposta: Team por AO; e-mail para o formal.
+3. Ponte: avisos importantes em Cc para o endereço do canal.
+4. Um gesto: abrir o canal Geral e @mencionar.
+5. Convite: ler o manual / ir à sessão de 20 minutos.
+
+────────────────────────────────────────
+PÓS-PRODUÇÃO
+────────────────────────────────────────
+- Título sugerido: «AIP | Do e-mail ao Teams (guia de 7 minutos)»
+- Colocar o ficheiro no Team geral (canal Avisos) E no canal Avisos de cada AO.
+- Legendas em PT-PT (o Teams e o Clipchamp geram legendas; rever «ficheiro»,
+  «telemóvel», «e-mail»).
